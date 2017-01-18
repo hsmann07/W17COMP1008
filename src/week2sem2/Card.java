@@ -56,7 +56,9 @@ else
     public String getSuit() {
         return suit;
     }
-
+    /*
+    * This method return the face value of the card
+    */
     public int getFaceValue() {
         return faceValue;
     }
